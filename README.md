@@ -1,6 +1,7 @@
 # 📚 Hướng dẫn sử dụng PDF Tools
 
 Bộ công cụ xử lý file PDF hàng loạt với 3 chức năng chính.
+Patch 2.1
 
 ---
 
